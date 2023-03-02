@@ -15,7 +15,7 @@ body{
 }
 
 .gallery div{
-    width: 900px;
+    width: 100%;
     display: grid;
     grid-template-columns: auto auto auto;
     grid-gap: 20px;
